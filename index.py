@@ -15,3 +15,11 @@ time.sleep(3)
 pyautogui.click(x=910, y=370)
 
 pyautogui.write("talenabarbosa7@gmail.com")
+
+pyautogui.press("tab")
+
+pyautogui.write("12345678")
+
+pyautogui.press("tab")
+
+pyautogui.press("enter")
