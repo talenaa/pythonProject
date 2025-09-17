@@ -23,3 +23,9 @@ pyautogui.write("12345678")
 pyautogui.press("tab")
 
 pyautogui.press("enter")
+
+time.sleep(2)
+
+import pandas
+
+pandas.read_csv("produtos_csv")
